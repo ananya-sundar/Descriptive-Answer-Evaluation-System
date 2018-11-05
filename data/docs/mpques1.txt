@@ -1,0 +1,34 @@
+question:
+Explain supervised learning and it's types.
+
+answer:
+In the predictive or supervised learning approach, the goal is to learn a mapping from inputs x to outputs y.Given a labeled set of input-output pairs D={(xi,yi)} where i=1 to N ,
+Here D is called the training set, and N is the number of training examples,xi is called as feature, attribute or covariate.Output or response variable can in principle be anything, 
+but most methods assume that yi is a categorical or nominal variable from some finite set, yi ={ 1,...,C}  (such as male or female), or that yi is a real-valued scalar (such as income level). 
+When yi is categorical, the problem is known as classification or pattern recognition. When yi is real-valued, the problem is known as regression. 
+Another variant, known as ordinal regression, occurs where label space Y has some natural ordering, such as grades A–F.
+We have a single real-valued input xi and a single real-valued response yi.If we take y=mx+c ,when a value for x is given , we get corresponding value for y which can be used to plot graph.
+Various extensions of this basic problem can arise, such as having high dimensional inputs,outliers,non smooth responses, etc.
+Here the goal is to learn a mapping from inputs x to outputs y, where y ={ 1,...,C}, with C being the number of classes. If C =2, this is called binary classification (in which case we often assume y ={ 0,1}).
+If C>2, this is called multiclass classification . If the class labels are not mutually exclusive (somebody may be classified as tall and strong),
+we call it multi-label classification, but this is best viewed as predicting multiple related binary class labels (a so-called multiple output model). Our main goal is to make predictions on novel inputs, 
+meaning ones that we have not seen before (this is called generalization),since predicting the response on the training set is easy.
+
+inputs
+outputs
+training 
+training 
+feature
+categorical
+real 
+valued
+regression
+classification
+single 
+real 
+valued 
+response
+single 
+real 
+valued 
+response

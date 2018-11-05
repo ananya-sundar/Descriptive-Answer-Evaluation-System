@@ -1,0 +1,32 @@
+Write a paragraph on channel distribution.
+
+A distribution channel is a chain of businesses or intermediaries through which a good or service passes until it reaches the end consumer. It can include wholesalers, retailers, distributors and even the internet itself. Channels are broken into direct and indirect forms, with a "direct" channel allowing the consumer to buy the good from the manufacturer, and an "indirect" channel allowing the consumer to buy the good from a wholesaler or retailer. 
+Manufacturers and consumers are two major components of the market. Intermediaries perform the duty of eliminating the distance between the two. There is no standardised level which proves that the distance between the two is eliminated.
+Based on necessity the help of one or more intermediaries could be taken and even this is possible that there happens to be no intermediary. Their description is as follows:
+(A) Direct Channel or Zero Level Channels:
+When the manufacturer instead of selling the goods to the intermediary sells it directly to the consumer then this is known as Zero Level Channel. Retail outlets, mail order selling, internet selling and selling
+(B) Indirect Channels:
+When a manufacturer gets the help of one or more middlemen to move goods from the production place to the place of consumption, the distribution channel is called indirect channel. Following are the main types of it:
+1. One Level Channel:
+In this method an intermediary is used. Here a manufacturer sells the goods directly to the retailer instead of selling it to agents or wholesalers. This method is used for expensive watches and other like products. This method is also useful for selling FMCG (Fast Moving Consumer Goods). 
+2. Two Level Channel:
+In this method a manufacturer sells the material to a wholesaler, the wholesaler to the retailer and then the retailer to the consumer. Here, the wholesaler after purchasing the material in large quantity from the manufacturer sells it in small quantity to the retailer.
+Then the retailers make the products available to the consumers. This medium is mainly used to sell soap, tea, salt, cigarette, sugar, ghee etc.
+3. Three Level Channel:
+Under this one more level is added to Two Level Channel in the form of agent. An agent facilitates to reduce the distance between the manufacturer and the wholesaler. Some big companies who cannot directly contact the wholesaler, they take the help of agents. Such companies appoint their agents in every region and sell the material to them.
+Then the agents sell the material to the wholesalers, the wholesaler to the retailer and in the end the retailer sells the material to the consumers.
+
+chain
+businesses
+wholesalers
+retailers
+distributors
+direct
+indirect
+manufacturer
+consumer
+FMCG
+one
+two
+three
+level
